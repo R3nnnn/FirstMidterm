@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #fafafa;
+    height: 100%;
+    max-width: 1440px;
+}
+
+h1{
+    font-weight: 200;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 32px;
+}
+
+h3{
+    font-weight: 600;
+    color: #4C4E61;
+}
+
+.text{
+    color: #A3A5AE;
+}
+
+
+.header_info{   
+    text-align: center;
+    color: #4C4E61;
+}
+
+.tech{
+    text-align: center;
+    color: #4C4E61;
+}
+
+.AI{
+    text-align: center;
+    color: #A3A5AE;
+}
+
+.Supervisor{
+    background-color: #fafafa;
+    width:363px;
+    height:250px;
+    border-top-style: solid;
+    border-top-width: 0.1cm;
+    border-top-color: #45D3D3;
+    position: relative;
+    left: 152px;
+    top: 182px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px #4c4e617a
+}
+
+.iconS {
+    position: absolute;
+
+    left: 73%
+}
+
+.iconS {
+    top: 65%
+}
+
+.Builder{
+    background-color: #fafafa;
+    width:365px;
+    height:250px;
+    border-top-style: solid;
+    border-top-width: 0.1cm;
+    border-top-color: #EA5353;
+    position: relative;
+    left: 540px;
+    bottom: 200px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px #4c4e617a
+}
+
+.iconB {
+    position: absolute;
+
+    left: 73%
+}
+
+.iconB {
+    top: 65%
+}
+
+
+.Karma{
+    background-color: #fafafa;
+    width:365px;
+    height:250px;
+    border-top-style: solid;
+    border-top-width: 0.1cm;
+    border-top-color: #FCAF4A;
+    position: relative;
+    left: 540px;
+    bottom: 170px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px #4c4e617a
+}
+
+.iconK {
+    position: absolute;
+
+    left: 73%
+}
+
+.iconK {
+    top: 65%
+}
+
+.Calculator{
+    background-color: #fafafa;
+    width:363px;
+    height:250px;
+    border-top-style: solid;
+    border-top-width: 0.1cm;
+    border-top-color: #549EF2;
+    position: relative;
+    left: 930px;
+    bottom: 565px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 12px #4c4e617a
+}
+
+.iconC {
+    position: absolute;
+
+    left: 73%
+}
+
+.iconC {
+    top: 65%
+}
